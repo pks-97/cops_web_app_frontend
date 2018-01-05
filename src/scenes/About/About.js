@@ -1,11 +1,11 @@
 import React from 'react';
 import Achievements from './components/Achievements';
-import TeamMembers from './components/TeamMembers';
+import Groups from './Groups';
 
 const About = () => (
 <div>
 	<Achievements/>
-	<TeamMembers/>
+	<Groups/>
 </div>
 )
 
