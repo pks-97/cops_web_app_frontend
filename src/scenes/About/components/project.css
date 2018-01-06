@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Bungee');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+body {
+  font-family: 'Indie Flower', cursive;
+}
+.head{
+  font-family:'Bungee', cursive;
+}
+.list{
+  font-family: 'Open Sans', sans-serif;
+}
+.projects{
+  font-family: 'Roboto Slab', serif;
+}
