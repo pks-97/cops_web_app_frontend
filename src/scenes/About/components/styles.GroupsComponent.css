@@ -1,0 +1,201 @@
+.main-container {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.cops-groups-title {
+    left:20%;
+    width:60%;
+    height:20%;
+    top:40%;
+    position: fixed;
+    text-align: center;
+    z-index: -1;
+}
+
+.group-list {
+    padding-top: 100vh;
+}
+
+.group-list-item {
+    width: 100%;
+    height: 100vh;
+    background-color: #FFF;
+    color: #FFF;
+    position: relative;
+    overflow: hidden;
+}
+
+.group-list-item-1-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #fa4b32;
+}
+
+.group-list-item-1 {
+    left:34%;
+    width:32%;
+    height:20%;
+    top:40%;
+    position: absolute;
+    text-align: center;
+}
+
+.paper {
+    position: absolute;
+}
+
+.paper1 {
+    width: 16vw;
+    height: 40vh;
+}
+
+.paper2 {
+    width: 40vw;
+    height: 15vh;
+}
+
+.paper3 {
+    width: 36vw;
+    height: 50vh;
+}
+
+.paper4 {
+    width: 32vw;
+    height: 75vh;
+}
+
+#head1:hover ~ #head11 {
+    width: 14vw;
+    height: 38vh;
+}
+
+#head1:hover ~ #head12 {
+    width: 38vw;
+    height: 13vh;
+}
+
+#head1:hover ~ #head13 {
+    width: 34vw;
+    height: 48vh;
+}
+
+#head1:hover ~ #head14 {
+    width: 30vw;
+    height: 73vh;
+}
+
+#head2:hover ~ #head21 {
+    width: 14vw;
+    height: 38vh;
+}
+
+#head2:hover ~ #head22 {
+    width: 38vw;
+    height: 13vh;
+}
+
+#head2:hover ~ #head23 {
+    width: 34vw;
+    height: 48vh;
+}
+
+#head2:hover ~ #head24 {
+    width: 30vw;
+    height: 73vh;
+}
+
+#head3:hover ~ #head31 {
+    width: 14vw;
+    height: 38vh;
+}
+
+#head3:hover ~ #head32 {
+    width: 38vw;
+    height: 13vh;
+}
+
+#head3:hover ~ #head33 {
+    width: 34vw;
+    height: 48vh;
+}
+
+#head3:hover ~ #head34 {
+    width: 30vw;
+    height: 73vh;
+}
+
+#head4:hover ~ #head41 {
+    width: 14vw;
+    height: 38vh;
+}
+
+#head4:hover ~ #head42 {
+    width: 38vw;
+    height: 13vh;
+}
+
+#head4:hover ~ #head43 {
+    width: 34vw;
+    height: 48vh;
+}
+
+#head4:hover ~ #head44 {
+    width: 30vw;
+    height: 73vh;
+}
+
+.group-list-item-2-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #ffc80f;
+}
+
+.group-list-item-2 {
+    left:34%;
+    width:32%;
+    height:20%;
+    top:40%;
+    position: absolute;
+    text-align: center;
+}
+
+.group-list-item-3-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #4b4be1;
+}
+
+.group-list-item-3 {
+    left:34%;
+    width:32%;
+    height:20%;
+    top:40%;
+    position: absolute;
+    text-align: center;
+}
+
+.group-list-item-4-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #fa4b32;
+}
+
+.group-list-item-4 {
+    left:34%;
+    width:32%;
+    height:20%;
+    top:40%;
+    position: absolute;
+    text-align: center;
+}
+
