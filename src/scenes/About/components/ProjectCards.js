@@ -87,7 +87,7 @@ const styleRight = {
     paddingLeft:0,
     paddingRight:0,
     }
-const projectComponents=(props)=>{
+const ProjectCards=(props)=>{
     return(
         <div>
         <Paper style={styleLeft} zDepth={3}>
@@ -195,4 +195,4 @@ const projectComponents=(props)=>{
          </div>
         )
     }
-    export default projectComponents;
+    export default ProjectCards;

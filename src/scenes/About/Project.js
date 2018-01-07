@@ -1,8 +1,6 @@
-import './components/project.css'
+import './components/ProjectComponents.css'
 import React,{Component} from 'react';
-import ReactDOM from 'react-dom';
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import project from './components/project';
+import AllProjects from './components/AllProjects';
 class Project extends Component {
   componentDidMount() {
     window.addEventListener('scroll', this.handleScroll);
@@ -81,7 +79,6 @@ class Project extends Component {
   }
   return(
   <div>
-  <MuiThemeProvider style={{width:1000}}>
   <div  style={{height:500,marginTop:0}}>
   <h1 style={{margin:0}}>Heading</h1>
   <h1 style={{marginBottom:0}}>Description</h1>
@@ -108,7 +105,6 @@ class Project extends Component {
         </h2>
   </div>
   </div>
-    <project/>
-  </MuiThemeProvider></div>)}
+    <AllProjects/></div>)}
 }
 export default Project;
